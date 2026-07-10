@@ -1,3 +1,5 @@
+<img src="./banner.svg" width="100%" alt="Rafael Alves — Desenvolvedor Full-stack" />
+
 ##  Sobre mim
 
 Desenvolvedor Full Stack com experiência na criação e manutenção de aplicações web, atuando tanto no front-end quanto no back-end. Trabalho com **React (TypeScript)**, **Angular (TypeScript)**, **ASP.NET com Razor**, **.NET**, **C#**, **SQL Server**, **JavaScript**, **jQuery**, **Tailwind CSS** e gerenciamento de aplicações em **IIS**.
