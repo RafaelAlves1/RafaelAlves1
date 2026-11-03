@@ -1,10 +1,10 @@
 <img src="./banner.svg" width="100%" alt="Rafael Alves — Desenvolvedor Full-stack" />
 
-## **Kaelix**
+## **Khaeryn**
 
-Atualmente, estou desenvolvendo a Kaelix, um projeto pessoal com o objetivo de criar soluções tecnológicas modernas, escaláveis e focadas em resolver problemas reais. A iniciativa envolve o desenvolvimento de aplicações e ferramentas que unem boas práticas de arquitetura, experiência do usuário e tecnologias atuais, servindo também como um ambiente para explorar novas ideias, aprimorar conhecimentos e transformar conceitos em produtos de valor.
+Atualmente, estou desenvolvendo a Khaeryn, um projeto pessoal com o objetivo de criar soluções tecnológicas modernas, escaláveis e focadas em resolver problemas reais. A iniciativa envolve o desenvolvimento de aplicações e ferramentas que unem boas práticas de arquitetura, experiência do usuário e tecnologias atuais, servindo também como um ambiente para explorar novas ideias, aprimorar conhecimentos e transformar conceitos em produtos de valor.
 
-**[Venha conferir](https://github.com/Kaelix-Technologies)**
+**[Venha conferir](https://github.com/Khaeryn-Technologies)**
 
 ##  Sobre mim
 
