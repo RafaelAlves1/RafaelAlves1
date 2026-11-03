@@ -20,9 +20,9 @@ Além do desenvolvimento, sou responsável pela organização e gerenciamento do
 
 ### **Back-end**
 
-<img src="https://skillicons.dev/icons?i=dotnet,cs,mysql,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,mysql,postman,nodejs,nestjs&theme=dark" />
 
-Tecnologias: ASP.NET (Razor), .NET, C#, SQL Server, IIS e Postman
+Tecnologias: ASP.NET (Razor), .NET, C#, SQL Server, IIS, Postman, node js e nest js
 
 ### **Front-end**
 
